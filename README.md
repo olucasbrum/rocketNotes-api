@@ -10,7 +10,7 @@ Clique [aqui]() para acessar a aplicação!
 
 Clone o projeto e acesse a pasta
 
-git clone https://github.com/olucasbrum/rocketNotes-api.git && cd RocketNotes-api
+git clone https://github.com/olucasbrum/rocketNotes-api.git && cd rocketNotes-api
 Siga os passos abaixo
 
 # Instale as dependências
