@@ -1,6 +1,6 @@
 # RocketNotes
 
-*Guarde seus links e anotações.*
+*Aplicação para salvar e gerenciar seus links úteis.*
 
 A API foi desenvolvida durante o programa Explorer da Rocketseat.
 
